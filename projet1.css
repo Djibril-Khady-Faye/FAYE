@@ -49,7 +49,7 @@
 /****************************************************************/
 .home{    
 	height: 775px;
-	background:url('file:///C:/Users/djibr/Desktop/projet%20site%20web/images.jfif');
+	background:url('file:///C:/Users/djibr/Desktop/projet%20site%20web/faye.html/images.jfif');
 	display: flex;
 }
 .home .max-width{
@@ -148,4 +148,4 @@
 }
 .about .div-right .button-two:hover{
 	background: none;
-	color: orange;}/****************************************************************/pre{    height:50px;	}#h2{	background-color:orange;	color:white;	height:400px;}h4{	color:white;	background-color:orange;}
+	color: orange;}/****************************************************************/pre{    height:50px;	}#h2{	background-color:orange;	color:white;	height:400px;}h4{	color:white;	background-color:orange;	height:70px;}
